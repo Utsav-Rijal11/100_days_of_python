@@ -22,6 +22,7 @@ while "_" in display:
                 display[position]=guess
     if lives==0:
         print("you lost!")
+        print(f"the word was={chosen_word}")
         break
     
 

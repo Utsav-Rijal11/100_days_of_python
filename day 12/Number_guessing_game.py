@@ -64,6 +64,8 @@ def game():
         print("Thank you for playing the game.")
 
 game()        
+# you're the first one to win the difficult level
+# none of my friends in class guessed it correctly LOL
 
 
     
